@@ -8,7 +8,7 @@ A reusable cross-server matchmaking library for Roblox games.
 
 <br><br>
 ## How to use?
-1. Download Kyo! from releases page.
+1. Download Kyo! from the releases page.
 2. Import Kyo! file package to your project.
 3. Set Kyo! configuration values based on your game needs.
    
