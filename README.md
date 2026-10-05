@@ -1,27 +1,27 @@
 # Kyo!: Global Matchmaking Queue (1.0)
-
-A very easy to use (plug-n-play) roblox global matchmaking queue system
+A reusable cross-server matchmaking library for Roblox games.
 
 <br><br>
 ## Overview
-Kyo! doesn't use any third party services. 
+**Kyo!** is a plug-and-play matchmaking module built entirely with Roblox's native APIs, requiring no third-party services or external dependencies. It provides a simple and reusable solution for implementing cross-server matchmaking in Roblox games.
+
 
 <br><br>
 ## How to use?
-1. Download Kyo! from releases page
-2. Import Kyo! file package to your project
-3. Set Kyo! configurations based on your game needs
+1. Download Kyo! from releases page.
+2. Import Kyo! file package to your project.
+3. Set Kyo! configuration values based on your game needs.
    
    <img width="161" height="204" alt="image" src="https://github.com/user-attachments/assets/193d3759-cc62-4fd5-8d35-4c74c6e4aa06" />
 
 <br>
 
-**Done! Now check the usage example below**
+**Done! Now check the usage example below.**
 
 
 <br><br>
 
-## Example usage:
+## Usage Exmaple:
 ```lua
 -- ServerScript
 local Kyo = require(game.ReplicatedStorage.Packages["Kyo!"]["Kyo!"])
