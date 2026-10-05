@@ -14,8 +14,10 @@ A reusable cross-server matchmaking library for Roblox games.
    
    <img width="161" height="204" alt="image" src="https://github.com/user-attachments/assets/193d3759-cc62-4fd5-8d35-4c74c6e4aa06" />
 
-<br>
 
+4. Don't forget to enable studio access to API services in security settings.
+<br>
+   
 **Done! Now check the usage example below.**
 
 
