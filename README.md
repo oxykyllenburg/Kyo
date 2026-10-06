@@ -1,4 +1,4 @@
-# Kyo!: Global Matchmaking Queue (1.0)
+# Kyo!: Global Matchmaking Queue
 A reusable cross-server matchmaking library for Roblox games.
 
 <br><br>
