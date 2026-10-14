@@ -23,7 +23,7 @@ A reusable cross-server matchmaking library for Roblox games.
 
 <br><br>
 
-## Usage Exmaple:
+## Usage Example:
 ```lua
 -- ServerScript
 local Kyo = require(game.ReplicatedStorage.Packages["Kyo!"]["Kyo!"])
